@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Logo_1.png"
   name             : "Jack Lab"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive Neuroscience Laboratory"

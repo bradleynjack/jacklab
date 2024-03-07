@@ -1,15 +1,13 @@
 # main links links
 main:
   - title: "People"
-  url:
-#    url: /people/
+    url: /people/
 
   - title: "Publications"
     url: /publications/
 
   - title: "News"
-    url:
-#    url: /news/
+    url: /news/
 
 #  - title: "Talks"
 #    url: /talks/    

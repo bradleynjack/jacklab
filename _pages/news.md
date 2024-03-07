@@ -31,9 +31,7 @@ author_profile: true
 
 * <b>12–14 April:</b> The lab attended EPC in Canberra, Australia. Well done to Brad, Imogen, and Lachlan, who presented their research.
 
-* <b>23 March:</b> Lachlan joined the lab as a PhD student. Welcome!
-
-* <b>20 February:</b> Ava, Ruiqi, and Sonali joined the lab as undergraduate students. Welcome!
+* <b>20 February:</b> Lachlan joined the lab as a PhD student, and Ava, Ruiqi, and Sonali joined the lab as undergraduate students. Welcome!
 
 * <b>27 January:</b> Lilli and Rebekah joined the lab as Honours students. Welcome!
 

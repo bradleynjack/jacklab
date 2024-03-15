@@ -18,7 +18,7 @@ Peer-Reviewed Journal Articles
 
 * Han, N., <b>Jack, B. N.</b>, Hughes, G., & Whitford, T. J. (2022). The role of action-effect contingency on sensory attenuation in the absence of movement. <i>Journal of Cognitive Neuroscience</i>, <i>34</i>, 1488–1499. <a href="http:bradleynjack.github.io/files/10.1162_jocn_a_01867.pdf"> pdf</a>
 
-* Hutchinson, B. T., Pammer, K., Bandara, K., & <b>Jack, B. N.</b> (2022). A tale of two theories: A meta-analysis of the attention set and load theories of inattentional blindness. <i>Psychological Bulletin</i>, <i>148</i>, 370–396. <a href="http:bradleynjack.github.io/files/10.1037_bul0000371.pdf"> pdf</a>
+* <b>Hutchinson, B. T.</b>, Pammer, K., Bandara, K., & <b>Jack, B. N.</b> (2022). A tale of two theories: A meta-analysis of the attention set and load theories of inattentional blindness. <i>Psychological Bulletin</i>, <i>148</i>, 370–396. <a href="http:bradleynjack.github.io/files/10.1037_bul0000371.pdf"> pdf</a>
 
 * Ford, T. C., Hugrass, L. E., & <b>Jack, B. N.</b> (2022). The relationship between affective visual mismatch negativity to interpersonal difficulties across autism and schizotypal traits. <i>Frontiers in Human Neuroscience</i>, <i>16</i>, 846961: 1–10. <a href="http:bradleynjack.github.io/files/10.3389_fnhum.2022.846961.pdf"> pdf</a>
 
@@ -32,7 +32,7 @@ Peer-Reviewed Journal Articles
 
 * Pavlov, Y. G., Adamian, N., Appelhoff, S., Arvaneh, M., Benwell, C. S. Y., Beste, C., Bland, A. R., Bradford, D. E.,Bublatzky, F., Busch, N. A., Clayson, P. E., Cruse, D., Czeszumski, A., Dreber, A., Dumas, G., Ehinger, B., Ganis, G., He, X., Hinojosa, J. A., Huber-Huber, C., Inzlicht, M., <b>Jack, B. N.</b>, Johannesson, M., Jones, R., Kalenkovich, E., Kaltwasser, L., Karimi-Rouzbahani, H., Keil, A., König, P., Kouara, L., Kulke, L., Ladouceur, C. D., Langer, N., Liesefeld, H. R., Luque, D., MacNamara, A., Mudrik, L., Muthuraman, M., Neal, L. B., Nilsonne, G., Niso, G., Ocklenburg, S., Oostenveld, R., Pernet, C. R., Pourtois, G., Ruzzoli, M., Sass, S. M., Schaefer, A., Senderecka, M., Snyder, J. S., Tamnes, C. K., Tognoli, E., van Vugt, M. K., Verona, E., Vloeberghs, R., Welke, D., Wessel, J. R., Zakharov, I., & Mushtaq, F. (2021). #EEGManyLabs: Investigating the replicability of influential EEG experiments. <i>Cortex</i>, <i>114</i>, 213–229. <a href="http:bradleynjack.github.io/files/10.1016_j.cortex.2021.03.013.pdf"> pdf</a>
 
-* Hutchinson, B. T., Pammer, K., & <b>Jack, B. N.</b> (2021). Pre-stimulus alpha predicts inattentional blindness. <i>Consciousness and Cognition</i>, <i>87</i>, 103034: 1–13. <a href="http:bradleynjack.github.io/files/10.1016_j.concog.2020.103034.pdf"> pdf</a>
+* <b>Hutchinson, B. T.</b>, Pammer, K., & <b>Jack, B. N.</b> (2021). Pre-stimulus alpha predicts inattentional blindness. <i>Consciousness and Cognition</i>, <i>87</i>, 103034: 1–13. <a href="http:bradleynjack.github.io/files/10.1016_j.concog.2020.103034.pdf"> pdf</a>
 
 * Nelson, B., Lavoie, S., Gaweda, L., Li, E., Sass, L. A., Koren, D., McGorry, P. D., <b>Jack, B. N.</b>, Parnas, J., Polari, A., Allott, K., Hartmann, J. A., & Whitford, T. J. (2020). The neurophenomenology of early psychosis: An integrative empirical study. <i>Consciousness and Cognition</i>, <i>77</i>, 102845: 1–17. <a href="http:bradleynjack.github.io/files/10.1016_j.concog.2019.102845.pdf"> pdf</a>
 
